@@ -37,21 +37,10 @@
   <b>Tools:</b> Git · GitHub · Docker · Postman · Figma · Photoshop<br>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharuka-saranga&show_icons=true&theme=radical" alt="Tharuka's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharuka-saranga&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tharuka-jayawardena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/tharuka-jayawardena-9024732ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:tjayawardena2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" /></a>
 </p>
 
